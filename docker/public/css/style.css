@@ -1,0 +1,12 @@
+body {
+  background-color: #c4c4c4;
+}
+.block {
+  background-color: #3c7e23;
+}
+.block .button {
+  background-color: red;
+}
+.block .button:hover {
+  background-color: #ff9900;
+}
